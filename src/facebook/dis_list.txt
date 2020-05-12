@@ -1,0 +1,60 @@
+Discharge Information   Discharge Summary
+Health Status
+Allergies
+Results Review
+Discharge Summary/[PERSONALNAME] of DC Note
+Problems
+Discharge diagnosis
+Discharge Medications
+Physical Examination
+General
+Overnight events
+Discharge Plan   Discharge Summary Plan   Discharge medications
+Non-Medication Prescriptions Given
+PCP Discussion9s99
+Final Report
+Hospital Course   Hospital Course   Admitted from
+Hospital Course
+Follow Up Instructions
+[PERSONALNAME] of DC Progress Note/DC Summary
+Gen Med Discharge Summary
+IMPRESSION
+Disposition
+Discharge Plan   Discharge Summary Plan   Time Spent Discharging Patient
+Activity
+Discharge Plan   Discharge Summary Plan   Discharge instructions given
+CT Surg Discharge Summary
+Discharge Plan   Discharge Summary Plan Discharge disposition
+Diagnosis
+Discharge disposition
+Basic Information   Visit Information
+Results Review   Procedures and [PERSONALNAME] results
+Result
+HOSPITAL COURSE
+DISCHARGE MEDICATIONS
+Discharge Plan   Discharge Summary Plan   Discharge Status
+Results Review   Procedures and Tests     [PERSONALNAME] results
+Physical Examination   General
+REPORT
+Immunizations Given this Visit
+Reason for Admission
+[PERSONALNAME]  CLINICAL HISTORY
+Patient Instructions
+Medications
+Discharge Summary
+Surgical Procedures
+Respiratory Care
+Assessment and Plan   Diagnosis
+Review / Management
+DISCHARGE DIAGNOSES
+Objective   Vital Signs
+Results Review   Procedures and Tests     Echocardiogram results
+FINDINGS
+Homecare Nursing
+Discharge Plan Discharge Summary Plan   Discharge disposition
+ID Antibiotic Discharge Note
+Results Review   Procedures and Tests     X-Ray results
+Results Review   Procedures and Tests
+Home Health Care Information And Home Medical Equipment Order
+Medication Information Comment
+Discharge Plan   Discharge Summary Plan Discharge medications
